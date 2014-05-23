@@ -12,11 +12,11 @@ The recognition will start each time a stroke has been drawn and if a shape is r
 4. Ellipse: Detected
 5. Circle: Detected
 6. Arrow: Detected
-================================================================================================
+
 2D Primitive Manipulation Functionality
 1. Erase primitives using a scribble gesture: I used the built in scratchout gesture and I modified it so shapes can be deleted and not only strokes.
 In order to use this functionality; editing mode must be changed to scribble gesture by the drop down menu and then it will be enabled.
-================================================================================================
+
 MutliTouch Mode
 Use One finger to select shapes then you can manipulate them
 Only detecetd shapes will be selected and selcted shapes borders will be colored as darkblue.
