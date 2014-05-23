@@ -1,5 +1,6 @@
 Gestural_UI
 ===========
+C# and WPF<br\>
 Gestural UI drawing application is to let users sketch and manipulate simple 2D geometric primitives.<br\>
 Shortstrow algorithm was used to detect corners and with few modification, shape should be drawn accurtly.<br\>
 Corners were used to calculate distances and angles and based on shapes were detected threshold was used taking erros in considration.<br\>
