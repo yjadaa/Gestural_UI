@@ -1,0 +1,45 @@
+C:\Users\YBO\Desktop\Projects\GesturalUI\GesturalUI\bin\Debug\GesturalUI.exe
+C:\Users\YBO\Desktop\Projects\GesturalUI\GesturalUI\bin\Debug\GesturalUI.pdb
+C:\Users\YBO\Desktop\Projects\GesturalUI\GesturalUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\YBO\Desktop\Projects\GesturalUI\GesturalUI\obj\x86\Debug\MainWindow.baml
+C:\Users\YBO\Desktop\Projects\GesturalUI\GesturalUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\YBO\Desktop\Projects\GesturalUI\GesturalUI\obj\x86\Debug\App.g.cs
+C:\Users\YBO\Desktop\Projects\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI_MarkupCompile.cache
+C:\Users\YBO\Desktop\Projects\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI.g.resources
+C:\Users\YBO\Desktop\Projects\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI.Properties.Resources.resources
+C:\Users\YBO\Desktop\Projects\GesturalUI\GesturalUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\YBO\Desktop\Projects\GesturalUI\GesturalUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\YBO\Desktop\Projects\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI.exe
+C:\Users\YBO\Desktop\Projects\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI.pdb
+H:\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI.exe
+H:\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI.pdb
+H:\GesturalUI\GesturalUI\bin\Debug\GesturalUI.exe
+H:\GesturalUI\GesturalUI\bin\Debug\GesturalUI.pdb
+H:\GesturalUI\GesturalUI\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\GesturalUI\GesturalUI\obj\x86\Debug\MainWindow.baml
+H:\GesturalUI\GesturalUI\obj\x86\Debug\MainWindow.g.cs
+H:\GesturalUI\GesturalUI\obj\x86\Debug\App.g.cs
+H:\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI_MarkupCompile.cache
+H:\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI.g.resources
+H:\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI.Properties.Resources.resources
+H:\GesturalUI\GesturalUI\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\GesturalUI\GesturalUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Student\Desktop\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI.exe
+C:\Users\Student\Desktop\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI.pdb
+C:\Users\Student\Desktop\GesturalUI\GesturalUI\bin\Debug\GesturalUI.exe
+C:\Users\Student\Desktop\GesturalUI\GesturalUI\bin\Debug\GesturalUI.pdb
+C:\Users\Student\Desktop\GesturalUI\GesturalUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Desktop\GesturalUI\GesturalUI\obj\x86\Debug\MainWindow.baml
+C:\Users\Student\Desktop\GesturalUI\GesturalUI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\GesturalUI\GesturalUI\obj\x86\Debug\App.g.cs
+C:\Users\Student\Desktop\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI_MarkupCompile.cache
+C:\Users\Student\Desktop\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI.g.resources
+C:\Users\Student\Desktop\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI.Properties.Resources.resources
+C:\Users\Student\Desktop\GesturalUI\GesturalUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Student\Desktop\GesturalUI\GesturalUI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI.exe
+D:\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI.pdb
+C:\Users\YBO\Desktop\UCF Master\PEN-BASED USER INTERFACES\Assginments\Assignment 2\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI.exe
+C:\Users\YBO\Desktop\UCF Master\PEN-BASED USER INTERFACES\Assginments\Assignment 2\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI.pdb
+C:\Users\YBO\Desktop\UCF Master\First Semester\Pen-Based User Interfaces\Assginments\Assignment 2\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI.exe
+C:\Users\YBO\Desktop\UCF Master\First Semester\Pen-Based User Interfaces\Assginments\Assignment 2\GesturalUI\GesturalUI\obj\x86\Debug\GesturalUI.pdb
